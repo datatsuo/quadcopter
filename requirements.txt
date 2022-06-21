@@ -1,7 +1,7 @@
 matplotlib==2.0.2
 pandas==0.20.1
 csv==1.0
-numpy==1.12.1
+numpy==1.22.0
 keras==2.1.1
 tensorflow==1.6.0
 ipykernel==4.6.1
